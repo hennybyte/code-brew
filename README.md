@@ -4,7 +4,7 @@ Welcome to code-brew — a personal lab where ideas percolate into code. This re
 ---
 
 ## 🧩 Selected Projects from Professional Experience
-Data anonymized and adjusted to preserve confidentiality.
+Data adjusted to preserve confidentiality.
 | Project | Description |
 |--------|-------------|
 |[**From O2 : Overstock & Obsolescence Yarn Stock to Sales Strategy**](https://www.canva.com/design/DAGup6YFVWw/cthioP16__UdIN8P9lVL7w/view?utm_content=DAGup6YFVWw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h85e2b449af) | The company regularly holds sales events to utilize overstock and obsolete yarns (O2). However, decision-making for which styles to promote with each yarn lacks a structured reference. We need to identify which styles have previously used each O2 yarn and determine which of them performed well, to guide future production and promotion decisions during sales events.|
